@@ -34,5 +34,9 @@ for i in range(tamanho):
     numero = random.randint(1,(len(dicionario)-1))
     senha+=dicionario[numero]
 
+#JOBSON
+#LEO
+
+
 #imprime senha gerada
 print('Senha:',senha)
